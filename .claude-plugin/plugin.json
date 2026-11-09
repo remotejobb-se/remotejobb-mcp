@@ -1,0 +1,15 @@
+{
+  "name": "remotejobb",
+  "displayName": "Remotejobb",
+  "version": "1.0.0",
+  "description": "Search remote and hybrid jobs in Sweden from Remotejobb.se: find, compare and open job listings with their apply links.",
+  "author": {
+    "name": "Remotejobb",
+    "email": "hej@remotejobb.se",
+    "url": "https://remotejobb.se"
+  },
+  "homepage": "https://remotejobb.se/en/ai",
+  "repository": "https://github.com/remotejobb-se/remotejobb-mcp",
+  "license": "MIT",
+  "keywords": ["jobs", "job-search", "remote-work", "hybrid-work", "sweden", "careers"]
+}

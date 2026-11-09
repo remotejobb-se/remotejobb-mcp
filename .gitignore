@@ -1,0 +1,4 @@
+# Registry signing keys must never be committed.
+*.pem
+mcp-registry-auth
+.DS_Store

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "remotejobb": {
+      "type": "http",
+      "url": "https://remotejobb.se/mcp"
+    }
+  }
+}
