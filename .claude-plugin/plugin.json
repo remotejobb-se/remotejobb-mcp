@@ -1,15 +1,25 @@
 {
   "name": "remotejobb",
-  "displayName": "Remotejobb",
+  "displayName": "Remotejobb: Sök jobb i Sverige",
   "version": "1.0.0",
-  "description": "Search remote and hybrid jobs in Sweden from Remotejobb.se: find, compare and open job listings with their apply links.",
+  "description": "Sök bland lediga jobb i Sverige direkt i Claude och få hela annonsen med ansökningslänk.",
   "author": {
-    "name": "Remotejobb",
+    "name": "J. Melker Bengtsson AB",
     "email": "support@remotejobb.se",
     "url": "https://remotejobb.se"
   },
-  "homepage": "https://remotejobb.se/en/ai",
-  "repository": "https://github.com/remotejobb-se/remotejobb-mcp",
+  "homepage": "https://remotejobb.se/ai",
   "license": "MIT",
-  "keywords": ["jobs", "job-search", "remote-work", "hybrid-work", "sweden", "careers"]
+  "keywords": [
+    "jobb",
+    "lediga jobb",
+    "jobbsök",
+    "Sverige",
+    "distans",
+    "hybrid",
+    "jobs",
+    "Sweden"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://remotejobb.se/integritetspolicy"
 }
