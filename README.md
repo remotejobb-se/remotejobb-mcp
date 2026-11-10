@@ -50,7 +50,7 @@ The plugin connects only to `https://remotejobb.se/mcp`. Each tool call sends th
 
 ## Support
 
-Questions and problems: [hej@remotejobb.se](mailto:hej@remotejobb.se). More about the server: [remotejobb.se/en/ai](https://remotejobb.se/en/ai).
+Questions and problems: [support@remotejobb.se](mailto:support@remotejobb.se). More about the server: [remotejobb.se/en/ai](https://remotejobb.se/en/ai).
 
 ## License
 
