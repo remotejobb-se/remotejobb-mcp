@@ -8,6 +8,8 @@ Filtrera på heltid, deltid, visstid, konsultuppdrag eller praktik, på lägsta 
 
 Öppna ett jobb för att läsa hela annonsen, med arbetsuppgifter, krav, lön, sista ansökningsdag och länk till ansökan. Be Claude sammanfatta kraven, jämföra flera tjänster eller hitta liknande jobb.
 
+Se vilka företag som anställer just nu och hur många lediga jobb de har, eller slå upp ett företag på namn.
+
 Nya jobb läggs till varje dag. Fungerar på svenska och engelska.
 
 Testa att fråga:
