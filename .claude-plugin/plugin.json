@@ -1,8 +1,8 @@
 {
   "name": "remotejobb",
   "displayName": "Remotejobb: Sök jobb i Sverige",
-  "version": "1.0.1",
-  "description": "Sök bland lediga jobb i Sverige direkt i Claude och få hela annonsen med ansökningslänk.",
+  "version": "1.0.2",
+  "description": "Hitta lediga jobb i hela Sverige direkt i Claude: sök på yrke, stad, anställningsform och lön och läs hela annonsen med ansökningslänk.",
   "author": {
     "name": "J. Melker Bengtsson AB",
     "email": "support@remotejobb.se",
