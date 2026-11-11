@@ -1,6 +1,6 @@
 {
   "name": "remotejobb",
-  "description": "Remotejobb: search remote and hybrid jobs in Sweden from your AI assistant.",
+  "description": "Remotejobb: search open jobs in Sweden from your AI assistant.",
   "owner": {
     "name": "Remotejobb",
     "email": "support@remotejobb.se"
@@ -9,7 +9,7 @@
     {
       "name": "remotejobb",
       "source": "./",
-      "description": "Search remote and hybrid jobs in Sweden from Remotejobb.se."
+      "description": "Search open jobs in Sweden from Remotejobb.se, with full listings and apply links."
     }
   ]
 }
